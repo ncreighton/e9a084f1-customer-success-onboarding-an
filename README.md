@@ -1,2 +1,28 @@
-# e9a084f1-customer-success-onboarding-an
-missing messages, manually responding to routine requests at all hours costs you real money. This automation bot pays for itself in one use.  Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Customer Success Onboarding And Welcome
+# Customer Success Onboarding and Welcome Flow Discord Bot
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFaeVd3aLe2M6xy47qcZx03)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFaeVd3aLe2M6xy47qcZx03)
+
